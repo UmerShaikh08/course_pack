@@ -1,0 +1,31 @@
+.card{
+    width:300px;
+    border-radius: 0.4rem;
+    background-color: #22223B;
+    color:white;
+    overflow: hidden;
+    position: relative;
+}
+
+.logo{
+    position: absolute;
+    padding:auto auto;
+    left:auto;
+    right:0.5rem;
+    font-size: 1.8rem;
+    border:none;
+    cursor:pointer;
+    bottom:45%;
+    width:2.5rem;
+    height:2.5rem;
+    border-radius: 50%;
+    padding: 5px 5px;
+}
+.info{
+    margin:1rem;
+}
+
+.title{
+    font-weight: 600;
+    margin-bottom:0.5rem;
+}

@@ -1,0 +1,9 @@
+.cards{
+    --tw-bg-opacity:1;
+    background-color: rgb(74 78 105/var(--tw-bg-opacity));;
+    display: flex;
+    flex-wrap:wrap;
+    gap:1rem;
+    width: 1000px;
+    justify-content: center;
+}

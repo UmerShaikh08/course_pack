@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    background-color: #22223B;
+    color:white;
+    text-align: center;
+    padding-top:0.5rem;
+    padding-bottom:0.5rem;
+    font-size:1.5rem;
+}
